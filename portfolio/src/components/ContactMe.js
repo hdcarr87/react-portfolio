@@ -13,9 +13,9 @@ const ContactMe = props => {
                     <Container>
                         hdmanley87@gmail.com
                         <br></br>
-                        GitHub: https://github.com/hdcarr87
+                        GitHub: <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://github.com/hdcarr87</a>
                         <br></br>
-                        LinkedIn: https://www.linkedin.com/in/heather-carr-b2812b190/
+                        LinkedIn: <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://www.linkedin.com/in/heather-carr-b2812b190/</a>
                         <br></br>   
                     </Container>                              
                 </CardBody>
