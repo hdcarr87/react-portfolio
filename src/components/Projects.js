@@ -72,14 +72,6 @@ const Projects = props => {
                     </h3>
                     <h2>
                     <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
                         <img src={`${process.env.PUBLIC_URL}/images/Ocean.jpg`} alt="a picture of the ocean" />
                     </h2>
                     <h3>
