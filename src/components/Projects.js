@@ -68,7 +68,7 @@ const Projects = props => {
                         <br></br>
                         <br></br>
                         <br></br>
-                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://hdcarr87.github.io/project-1/</a>
+                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://github.com/hdcarr87/Travel-Link.git</a>
                     </h3>
                     <h2>
                     <br></br>
@@ -106,7 +106,7 @@ const Projects = props => {
                         <br></br>
                         <br></br>
                         <br></br>
-                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://github.com/amandasimonds/ocean-port.git</a>
+                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://github.com/hdcarr87/ocean-port.git</a>
                     </h3>   
                 </CardBody>
             </Card>
