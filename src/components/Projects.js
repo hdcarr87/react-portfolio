@@ -80,7 +80,7 @@ const Projects = props => {
                     <br></br>
                     <br></br>
                     <br></br>
-                        <img src={`${process.env.PUBLIC_URL}/images/planner.jpg`} alt="a picture of a dayplanner" />
+                        <img src={`${process.env.PUBLIC_URL}/images/ocean.jpg`} alt="a picture of the ocean" />
                     </h2>
                     <h3>
                         <br></br>
@@ -102,50 +102,12 @@ const Projects = props => {
                         <br></br>
                         <br></br>
                         <br></br>
-                        Day Planner
+                        Ocean Port
                         <br></br>
                         <br></br>
                         <br></br>
-                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://hdcarr87.github.io/DayPlanner/</a>
-                    </h3>
-                    <h4>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                        <img src={`${process.env.PUBLIC_URL}/images/employee.png`} alt="a picture of a workplace" />
-                    </h4>
-                    <h3>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                        Employee Tracker
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://hdcarr87.github.io/Employee-Tracker/</a>
-                    </h3>     
+                        <a rel="noopener noreferrer" href="http://url.com" target="_blank">https://github.com/amandasimonds/ocean-port.git</a>
+                    </h3>   
                 </CardBody>
             </Card>
         </Col>
