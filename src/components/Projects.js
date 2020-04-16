@@ -80,7 +80,7 @@ const Projects = props => {
                     <br></br>
                     <br></br>
                     <br></br>
-                        <img src={`${process.env.PUBLIC_URL}/images/ocean.jpg`} alt="a picture of the ocean" />
+                        <img src={`${process.env.PUBLIC_URL}/images/Ocean.jpg`} alt="a picture of the ocean" />
                     </h2>
                     <h3>
                         <br></br>
